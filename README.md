@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a frontend engineer.
+- 🔭 I’m currently working as a full stack engineer.
 - 👯 I’m looking to collaborate on data scrapers/parsers,libraries that make life easy for devs.
 - 💬 Tell me about a tech/library that blew your mind.
 - 📫 How to reach me: Discord @negswell
