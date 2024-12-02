@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 💬 Tell me about a tech/library that blew your mind.
 - 📫 How to reach me: Discord @negswell
 - ⚡ It is lonely in between the stars.
+- Visit my [leetcode](https://leetcode.com/u/negswell/)
